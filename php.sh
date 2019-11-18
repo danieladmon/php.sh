@@ -1,3 +1,7 @@
+# php.sh - A small script that replace "<?" tag to "<?php" in php file.
+
+# By Daniel Admon - 18/11/2019
+
 #!/bin/bash
 
 if [ -z "$1" ]; then
